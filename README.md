@@ -3,6 +3,8 @@ CPUTune
 ====
 An open source kernel extension enables dynamic CPU performance tuning at runtime for macOS.
 
+https://portugnole.blogspot.com/2020/05/running-macbook-without-battery-lets-go.html
+
 #### Features
 - Allows turning on or off Intel Turbo Boost for better battery life
 - Allows turning on or off Intel Speed Shift for maximum performance
